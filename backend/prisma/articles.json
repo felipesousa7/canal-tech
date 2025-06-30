@@ -1,0 +1,47 @@
+[
+  {
+    "title": "iPhone 15 Pro vs Samsung Galaxy S24: Qual escolher em 2024?",
+    "content": "A batalha entre Apple e Samsung continua acirrada em 2024. O iPhone 15 Pro e o Samsung Galaxy S24 representam o que há de melhor em cada ecossistema. Vamos analisar especificações, preços, câmeras e performance para ajudar você a escolher o smartphone ideal.\n\nO iPhone 15 Pro mantém a tradição Apple de design premium e integração perfeita com o ecossistema iOS. Já o Galaxy S24 traz inovações em IA e uma experiência Android mais personalizada.\n\nNa questão de câmeras, ambos oferecem excelente qualidade, mas com abordagens diferentes. O iPhone 15 Pro foca na simplicidade e consistência, enquanto o Galaxy S24 oferece mais opções de configuração e recursos de IA.",
+    "excerpt": "Comparação completa entre iPhone 15 Pro e Samsung Galaxy S24. Preços, especificações, câmeras e qual vale mais a pena em 2024.",
+    "author": "João Silva",
+    "slug": "iphone-15-pro-vs-samsung-galaxy-s24-2024",
+    "featuredImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&h=630&fit=crop",
+    "tags": "smartphone,iphone,samsung,comparacao,tecnologia"
+  },
+  {
+    "title": "ChatGPT-5: O que esperar da próxima versão da IA da OpenAI",
+    "content": "A OpenAI está desenvolvendo o ChatGPT-5, a próxima iteração de sua inteligência artificial conversacional. Com base em vazamentos e declarações da empresa, podemos esperar melhorias significativas em compreensão, raciocínio e capacidades multimodais.\n\nUma das principais novidades será a capacidade de processar e gerar vídeos, além de melhorias substanciais na compreensão de contexto e memória de conversas. O modelo também deve ser mais eficiente em termos de energia e custo.\n\nEspecialistas preveem que o GPT-5 pode representar um salto qualitativo similar ao que vimos entre o GPT-3 e GPT-4, com capacidades que hoje parecem ficção científica.",
+    "excerpt": "Especulações e expectativas sobre o ChatGPT-5, a próxima versão da IA da OpenAI. Novidades, melhorias e quando será lançado.",
+    "author": "Maria Santos",
+    "slug": "chatgpt-5-proximos-lancamentos-openai",
+    "featuredImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop",
+    "tags": "ia,chatgpt,openai,tecnologia,futuro"
+  },
+  {
+    "title": "Web3 e Blockchain: O futuro da internet descentralizada",
+    "content": "A Web3 promete revolucionar a internet como a conhecemos, trazendo descentralização, propriedade de dados pelos usuários e novas formas de interação digital. Baseada em blockchain, a Web3 elimina intermediários e coloca o controle nas mãos dos usuários.\n\nNFTs, DeFi (Finanças Descentralizadas) e DAOs (Organizações Autônomas Descentralizadas) são apenas o começo. A Web3 pode transformar setores como jogos, arte, finanças e até mesmo governança.\n\nNo entanto, desafios como escalabilidade, usabilidade e regulamentação ainda precisam ser superados para que a Web3 atinja seu potencial completo.",
+    "excerpt": "Entenda o que é Web3, como funciona e como pode transformar a internet. Blockchain, NFTs e o futuro da web descentralizada.",
+    "author": "Carlos Oliveira",
+    "slug": "web3-blockchain-futuro-internet-descentralizada",
+    "featuredImage": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=630&fit=crop",
+    "tags": "web3,blockchain,nft,defi,tecnologia"
+  },
+  {
+    "title": "Inteligência Artificial na Medicina: Diagnósticos mais precisos",
+    "content": "A inteligência artificial está transformando a medicina, oferecendo diagnósticos mais precisos e tratamentos personalizados. Sistemas de IA já conseguem detectar câncer de mama com precisão superior a radiologistas experientes.\n\nAlgoritmos de machine learning analisam exames de imagem, histórico médico e dados genéticos para identificar padrões que humanos podem perder. Isso resulta em diagnósticos mais rápidos e precisos.\n\nA IA também está sendo usada para desenvolver medicamentos personalizados, prever surtos de doenças e otimizar recursos hospitalares. O futuro da medicina será cada vez mais digital e inteligente.",
+    "excerpt": "Como a IA está revolucionando a medicina com diagnósticos mais precisos, tratamentos personalizados e descoberta de medicamentos.",
+    "author": "Ana Costa",
+    "slug": "inteligencia-artificial-medicina-diagnosticos-precisos",
+    "featuredImage": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1200&h=630&fit=crop",
+    "tags": "ia,medicina,saude,tecnologia,diagnostico"
+  },
+  {
+    "title": "Carros Elétricos: O futuro da mobilidade sustentável",
+    "content": "Os carros elétricos representam o futuro da mobilidade sustentável, oferecendo uma alternativa limpa aos veículos movidos a combustíveis fósseis. Com avanços em baterias e infraestrutura de recarga, os EVs estão se tornando cada vez mais práticos.\n\nTesla, BYD, Volkswagen e outras montadoras estão investindo pesadamente em veículos elétricos. A autonomia das baterias está aumentando, e os preços estão se tornando mais acessíveis.\n\nAlém dos benefícios ambientais, carros elétricos oferecem menor custo de manutenção, melhor performance e tecnologias avançadas de assistência ao motorista. O futuro da mobilidade é elétrico.",
+    "excerpt": "O crescimento dos carros elétricos, avanços em baterias, infraestrutura de recarga e o futuro da mobilidade sustentável.",
+    "author": "Pedro Almeida",
+    "slug": "carros-eletricos-futuro-mobilidade-sustentavel",
+    "featuredImage": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1200&h=630&fit=crop",
+    "tags": "carros-eletricos,sustentabilidade,tesla,tecnologia,mobilidade"
+  }
+] 

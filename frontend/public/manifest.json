@@ -1,0 +1,13 @@
+{
+  "name": "Canal Tech - Portal de Notícias de Tecnologia",
+  "short_name": "Canal Tech",
+  "description": "Portal de notícias sobre tecnologia, inovação e tendências do mundo digital",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "categories": ["news", "technology"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}
