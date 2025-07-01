@@ -79,6 +79,20 @@ docker compose up frontend
 docker compose up backend
 ```
 
+## 🧪 Testes Unitários
+
+#### Backend
+```bash
+cd backend
+npm test
+```
+
+#### Frontend
+```bash
+cd frontend
+npm test
+```
+
 ## 📊 API Endpoints
 
 ### Artigos
