@@ -1,4 +1,4 @@
-import { PrismaClient, Article as PrismaArticle } from '@prisma/client';
+import { PrismaClient } from '@prisma/client';
 import {
   Article,
   CreateArticleData,
@@ -12,7 +12,7 @@ export class ArticleRepository {
     this.prisma = new PrismaClient();
   }
 
-  private mapPrismaArticleToArticle(prismaArticle: PrismaArticle): Article {
+  private mapPrismaArticleToArticle(prismaArticle: any): Article {
     return {
       ...prismaArticle,
       featuredImage: prismaArticle.featuredImage || undefined,
@@ -31,7 +31,7 @@ export class ArticleRepository {
         },
       });
 
-      return articles.map((article: PrismaArticle) =>
+      return articles.map((article: any) =>
         this.mapPrismaArticleToArticle(article)
       );
     } catch (error) {
