@@ -1,4 +1,4 @@
-import { PrismaClient } from '@prisma/client';
+import { PrismaClient, Article as PrismaArticle } from '@prisma/client';
 import {
   Article,
   CreateArticleData,
@@ -12,7 +12,7 @@ export class ArticleRepository {
     this.prisma = new PrismaClient();
   }
 
-  private mapPrismaArticleToArticle(prismaArticle: any): Article {
+  private mapPrismaArticleToArticle(prismaArticle: PrismaArticle): Article {
     return {
       ...prismaArticle,
       featuredImage: prismaArticle.featuredImage || undefined,
@@ -31,7 +31,9 @@ export class ArticleRepository {
         },
       });
 
-      return articles.map((article: any) => this.mapPrismaArticleToArticle(article));
+      return articles.map((article: PrismaArticle) =>
+        this.mapPrismaArticleToArticle(article)
+      );
     } catch (error) {
       throw new Error(
         `Erro ao buscar artigos: ${error instanceof Error ? error.message : 'Erro desconhecido'}`
