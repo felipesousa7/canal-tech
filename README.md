@@ -29,16 +29,19 @@ Portal de notícias sobre tecnologia desenvolvido com Next.js, TypeScript e Node
 
 - Node.js 18+ 
 - npm ou yarn
+- Docker e Docker Compose (opcional)
 
 ## 🚀 Como rodar
 
-### 1. Clone o repositório
+### Opção 1: Desenvolvimento Local
+
+#### 1. Clone o repositório
 ```bash
 git clone <url-do-repositorio>
 cd canal-tech
 ```
 
-### 2. Backend
+#### 2. Backend
 ```bash
 cd backend
 npm install
@@ -47,7 +50,7 @@ npm run dev
 
 O backend estará rodando em `http://localhost:3001`
 
-### 3. Frontend
+#### 3. Frontend
 ```bash
 cd frontend
 npm install
@@ -56,6 +59,25 @@ npm run dev
 
 O frontend estará rodando em `http://localhost:3000`
 
+### Opção 2: Docker (Recomendado)
+
+Para rodar o projeto completo usando Docker:
+
+```bash
+docker compose up
+```
+
+Isso irá iniciar tanto o frontend (porta 3000) quanto o backend (porta 3001) em containers Docker.
+
+Para rodar apenas um serviço específico:
+
+```bash
+# Apenas o frontend
+docker compose up frontend
+
+# Apenas o backend
+docker compose up backend
+```
 
 ## 📊 API Endpoints
 

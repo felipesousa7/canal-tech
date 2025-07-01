@@ -34,15 +34,12 @@ export const Footer: React.FC = () => {
 
           <div>
             <h4 className="text-lg font-semibold mb-4">Contato</h4>
-            <p className="text-gray-300 text-sm">
-              Entre em contato conosco para sugestões ou parcerias.
-            </p>
-            <p className="text-gray-300 text-sm mt-2">Email: contato@canaltech.com</p>
+            <p className="text-gray-300 text-sm mt-2">Email: felipesousa6907@gmail.com</p>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-          <p className="text-gray-400 text-sm">© 2024 Canal Tech. Todos os direitos reservados.</p>
+          <p className="text-gray-400 text-sm">© 2025 Canal Tech.</p>
           <p className="text-gray-500 text-xs mt-2">
             Desenvolvido com Next.js, TypeScript e Tailwind CSS
           </p>

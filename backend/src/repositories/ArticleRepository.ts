@@ -31,7 +31,7 @@ export class ArticleRepository {
         },
       });
 
-      return articles.map(article => this.mapPrismaArticleToArticle(article));
+      return articles.map((article: any) => this.mapPrismaArticleToArticle(article));
     } catch (error) {
       throw new Error(
         `Erro ao buscar artigos: ${error instanceof Error ? error.message : 'Erro desconhecido'}`
